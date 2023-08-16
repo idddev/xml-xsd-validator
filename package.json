@@ -1,0 +1,12 @@
+{
+  "name": "sii-dte-validator",
+  "version": "1.0.0",
+  "description": "Validate DTE from XSD schema",
+  "main": "dist/index.js",
+  "author": "Ivan Dario Diaz (https://github.com/idddev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.5.0",
+    "typescript": "^5.1.6"
+  }
+}
